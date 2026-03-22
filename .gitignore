@@ -1,0 +1,35 @@
+# ---- Exclude files for this project
+# ---- @author: Christian G. Garcia
+
+.pypirc
+
+# Exclude tests folder
+tests/
+
+# Exclude management folder
+django_seeder/management/
+
+# Exclude build and dist folders
+build/
+dist/
+
+# Exclude virtual environment folders
+venv/
+env/
+.venv/
+
+# Exclude MANIFEST file
+MANIFEST.in
+
+# Exclude SH files
+*.sh
+
+# Exclude toml files
+*.toml
+
+# Exclude loaders and seeders file
+loaders.py
+seeder.py
+
+# Exclude __pycache__ folders
+__pycache__/

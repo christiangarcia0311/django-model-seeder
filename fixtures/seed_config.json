@@ -1,0 +1,9 @@
+{
+    "ModelName": {
+        "app_label": "app_name",
+        "rows": "number_of_rows",
+        "mapping": {
+            "field_name": "data_generator_keyword_or_custom_values"
+        }
+    }
+}
